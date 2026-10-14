@@ -1,0 +1,20 @@
+{
+  "name": "qualifybase",
+  "displayName": "QualifyBase",
+  "version": "0.1.1",
+  "description": "AI lead qualification: review leads and conversations, understand customer objections, manage appointments, get setup guidance, and preview approved agent prompt edits.",
+  "author": {
+    "name": "QualifyBase",
+    "email": "info@qualifybase.com",
+    "url": "https://www.qualifybase.com"
+  },
+  "homepage": "https://www.qualifybase.com",
+  "documentationUrl": "https://www.qualifybase.com/mcp",
+  "supportUrl": "https://www.qualifybase.com/support",
+  "privacyPolicyUrl": "https://www.qualifybase.com/privacy",
+  "termsOfServiceUrl": "https://www.qualifybase.com/terms",
+  "license": "MIT",
+  "icon": "./assets/icon.png",
+  "keywords": ["lead-qualification", "crm", "customer-insights", "appointments", "instagram", "agent-prompts"],
+  "mcpServers": "./.mcp.json"
+}

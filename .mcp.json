@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "qualifybase": {
+      "type": "http",
+      "url": "https://www.qualifybase.com/api/mcp",
+      "oauth": {
+        "scopes": "qualifybase.read qualifybase.write qualifybase.prompts.read"
+      }
+    }
+  }
+}
