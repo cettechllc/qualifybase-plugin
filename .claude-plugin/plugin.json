@@ -9,6 +9,7 @@
     "url": "https://www.qualifybase.com"
   },
   "homepage": "https://www.qualifybase.com",
+  "repository": "https://github.com/cettechllc/qualifybase-plugin",
   "documentationUrl": "https://www.qualifybase.com/mcp",
   "supportUrl": "https://www.qualifybase.com/support",
   "privacyPolicyUrl": "https://www.qualifybase.com/privacy",
